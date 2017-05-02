@@ -2,10 +2,10 @@
   "name": "prakticum1",
   "version": "1.0.0",
   "description": "Random User Generator REST API in Node.js",
-  "main": "./prakticum1/randomusertask.js",
+  "main": "randomusertask.js",
   "entry point": "randomusertask.js",
   "scripts": {
-    "start": "node ./prakticum1/randomusertask.js",
+    "start": "node randomusertask.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Max Stubbe",

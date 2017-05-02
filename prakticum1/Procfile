@@ -1,1 +1,1 @@
-web: node ./prakticum1/randomusertask.js
+web: node randomusertask.js
