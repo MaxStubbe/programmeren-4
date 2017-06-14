@@ -1,0 +1,14 @@
+{
+  "name": "periode4",
+  "version": "1.0.0",
+  "description": "practicum 1 week 1",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "max stubbe",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.15.2"
+  }
+}
